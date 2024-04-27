@@ -1,5 +1,5 @@
 # Ikirior
- *"Quero ser hoje melhor do que fui ontem, e amanhã melhor do que sou hoje.” – **Abilio Diniz.***
+ *"Quero ser hoje melhor do que fui ontem, e amanhã melhor do que sou hoje.”
 
 ---
 
