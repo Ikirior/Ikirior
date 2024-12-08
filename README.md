@@ -5,7 +5,7 @@
 
 ### 🖥️ | Sobre mim (Português)
 
-Olá! Meu nome é Gabriel Lacerda, tenho 19 anos e mas muitas pessoas me conhecem pelo apelido Ikiro. Atualmente estou cursando Engenharia de Produção no campus da Universidade Federal Fluminense, porémm, busco alcançar novos orizontes na área de Análise de Dados e Machine Learning.
+Olá! Meu nome é Gabriel Lacerda, tenho 20 anos e mas muitas pessoas me conhecem pelo apelido Ikiro. Atualmente estou cursando Engenharia de Produção no campus da Universidade Federal Fluminense, porémm, busco alcançar novos orizontes na área de Análise de Dados e Machine Learning.
 
 Prazer em te conhecer, fique a vontade :)
 
@@ -22,10 +22,11 @@ Em busca de oportunidades de receber e agregar conhecimento!
 
 ### 🎯 | Objetivo
 
-| Em Análise de Dados     | Em Desenvolvimento de Jogos |
+| Cursando Em Análise de Dados | Em DevOps |
 |-------------------------|-----------------------------|
-|Me Especializar em Python|Criar meu primeiro jogo em Godot |
-| Em Breve...             | Em Breve...
+|IBM Data Science no Coursera|Santander Bootcamp Cibersegurança|
+|Machine Learning Practioner na DIO| Em Breve... |
+
 
 ---
 
