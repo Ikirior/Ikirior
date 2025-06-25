@@ -1,4 +1,4 @@
-# Gabriel "Ikiro" Caldi
+# Gabriel Caldi
 *"Quero ser hoje melhor do que fui ontem, e amanhã melhor do que sou hoje.”*
 
 ---
