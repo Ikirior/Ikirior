@@ -10,6 +10,15 @@ Atualmente, estou direcionando minha carreira para a área de **Estatística**, 
 
 <br>
 
+### 💻 | Portfólio de Projetos
+> Visite meu portfólio para ver meus projetos!
+> >
+> **[👉 Acesse gabrielcaldi.dev](https://ikirior.github.io/gabrielcaldi.dev/)**
+
+<br>
+
+<br>
+
 ### 📫 | Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=9a6dd7)](https://www.linkedin.com/in/gabriel-caldi/)
 [![Perfil DIO](https://img.shields.io/badge/PerfiL_DIO-141414?style=for-the-badge&logo=dev.to&logoColor=9a6dd7)](https://www.dio.me/users/gabriellacerdacaldi10)
@@ -45,6 +54,7 @@ Estou constantemente buscando aprimorar minhas habilidades. Atualmente, estou fo
   - _Conclusão prevista para 2028_
 
 <br>
+
 
 ### 📊 | Estatísticas no GitHub
 ![Estatísticas do GitHub de Ikirior](https://github-readme-stats.vercel.app/api?username=Ikirior&theme=transparent&bg_color=141414&border_color=9a6dd7&show_icons=true&icon_color=9a6dd7&title_color=9a6dd7&text_color=FFF)
