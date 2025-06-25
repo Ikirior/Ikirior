@@ -1,49 +1,50 @@
-# Ikirior
- *"Quero ser hoje melhor do que fui ontem, e amanhã melhor do que sou hoje.”*
+# Gabriel "Ikiro" Caldi
+*"Quero ser hoje melhor do que fui ontem, e amanhã melhor do que sou hoje.”*
 
 ---
 
-### 🖥️ | Sobre mim (Português)
+### 👋 | Sobre Mim
+Olá! Sou Gabriel Caldi, um estudante de **Engenharia de Produção** na **Universidade Federal Fluminense (UFF)** apaixonado por otimização de processos e tecnologia. Minha jornada acadêmica me proporcionou uma forte base analítica e uma visão sistêmica para a resolução de problemas.
 
-Olá! Meu nome é Gabriel Lacerda, tenho 20 anos e mas muitas pessoas me conhecem pelo apelido Ikiro. Atualmente estou cursando Engenharia de Produção no campus da Universidade Federal Fluminense, porémm, busco alcançar novos orizontes na área de Análise de Dados e Machine Learning.
+Atualmente, estou direcionando minha carreira para a área de **Estatística**, **Ciência de Dados e Machine Learning**, buscando combinar o conhecimento em processos e melhoria contínua da engenharia com dados para gerar insights e soluções inovadoras.
 
-Prazer em te conhecer, fique a vontade :)
+<br>
 
-### 📕 | Escolaridade
+### 📫 | Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=9a6dd7)](https://www.linkedin.com/in/gabriel-caldi/)
+[![Perfil DIO](https://img.shields.io/badge/PerfiL_DIO-141414?style=for-the-badge&logo=dev.to&logoColor=9a6dd7)](https://www.dio.me/users/gabriellacerdacaldi10)
+<a href="mailto:gabriel_caldi@hotmail.com"><img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=9a6dd7" alt="Email"></a>
 
-Graduação: Engenharia de Produção (_Em Curso_)
-|---|
-Previsão de Término: 2028
+<br>
 
-### 💼 | Carreira
+### 🛠️ | Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=9a6dd7)
+![Pandas](https://img.shields.io/badge/Pandas-141414?style=for-the-badge&logo=pandas&logoColor=9a6dd7)
+![NumPy](https://img.shields.io/badge/NumPy-141414?style=for-the-badge&logo=numpy&logoColor=9a6dd7)
+![SQL](https://img.shields.io/badge/SQL-141414?style=for-the-badge&logo=postgresql&logoColor=9a6dd7)
+![R](https://img.shields.io/badge/R-141414?style=for-the-badge&logo=r&logoColor=9a6dd7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-141414?style=for-the-badge&logo=tensorflow&logoColor=9a6dd7)
+![Keras](https://img.shields.io/badge/Keras-141414?style=for-the-badge&logo=keras&logoColor=9a6dd7)
+![OpenCV](https://img.shields.io/badge/OpenCV-141414?style=for-the-badge&logo=opencv&logoColor=9a6dd7)
+![YOLO](https://img.shields.io/badge/YOLO-141414?style=for-the-badge&logoColor=9a6dd7)
 
-Em busca de oportunidades de receber e agregar conhecimento!
-|---|
+<br>
 
-### 🎯 | Objetivo
+### 🎯 | Foco Atual & Aprendizado
+Estou constantemente buscando aprimorar minhas habilidades. Atualmente, estou focado em:
 
-| Cursando Em Análise de Dados | Em DevOps |
-|-------------------------|-----------------------------|
-|IBM Data Science no Coursera|Santander Bootcamp Cibersegurança|
-|Machine Learning Practioner na DIO| Em Breve... |
+- 🐍 **Santander Bootcamp 2025 - Back-End com Python** na [Digital Innovation One](https://www.dio.me/)
+- 📊 **Certificado Profissional de Ciência de Dados** da [IBM (Coursera)](https://www.coursera.org/professional-certificates/ibm-data-science)
+- ⚙️ **Certificação Lean Seis Sigma Yellow Belt** na [FM2S](https://www.fm2s.com.br/)
 
+<br>
 
----
+### 🎓 | Formação Acadêmica
+- **Graduação em Engenharia de Produção**
+  - Universidade Federal Fluminense (UFF)
+  - _Conclusão prevista para 2028_
 
-## 📱 | Contato
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=9a6dd7)](https://www.linkedin.com/in/devgab-gabriel-lacerda/) [![DIO](https://img.shields.io/badge/PerfiL_DIO-141414?style=for-the-badge&logo=dev.to&logoColor=9a6dd7)](https://www.dio.me/users/gabriellacerdacaldi10) [![GITHUB](https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=GitHub&logoColor=9a6dd7)](https://github.com/Ikirior)
+<br>
 
-## 📑 Linguagens de Marcação
- ![Markdown](https://img.shields.io/badge/Markdown-141414?style=for-the-badge&logo=markdown&logoColor=9a6dd7) ![HTML5](https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=9a6dd7) ![CSS3](https://img.shields.io/badge/CSS3-141414?style=for-the-badge&logo=css3&logoColor=9a6dd7)
-
-## ⚙️ Linguagens de Programação
- ![Python](https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=9a6dd7) ![JavaScript](https://img.shields.io/badge/JavaScript-141414?style=for-the-badge&logo=javascript&logoColor=9a6dd7)
-
-## 🔎 | Github Status
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ikirior&theme=transparent&bg_color=141414&border_color=9a6dd7&show_icons=true&icon_color=9a6dd7&title_color=9a6dd7&text_color=FFF) 
-
-## 🤝 | Contribuições
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Ikirior&locale=pt_BR&theme=bear&background=141414&border=9a6dd7&dates=6878E3&ring=9a6dd7&fire=6878E3&currStreakNum=6878E3&sideNums=6878E3&currStreakLabel=C5B3DD&sideLabels=C5B3DD)](https://git.io/streak-stats)
-
-## 📦 Linguagens e Repositório
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ikirior&bg_color=141414&border_color=9a6dd7&title_color=9a6dd7&text_color=FFF) 
+### 📊 | Estatísticas no GitHub
+![Estatísticas do GitHub de Ikirior](https://github-readme-stats.vercel.app/api?username=Ikirior&theme=transparent&bg_color=141414&border_color=9a6dd7&show_icons=true&icon_color=9a6dd7&title_color=9a6dd7&text_color=FFF)
